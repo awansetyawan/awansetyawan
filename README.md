@@ -21,5 +21,5 @@ I love learn new thing in programming, robotic, and network.
 
 ### Let's connect!
 <p>
-    <a href="https://www.instagram.com/awanxx_/"><img src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_Logo_2016.png" height=100 /></a>
+    <a href="https://www.instagram.com/awanxx_/"><img src="https://cdn.kibrispdr.org/data/752/logo-ig-vector-png-32.png" height=100 /></a>
 </p>

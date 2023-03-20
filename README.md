@@ -1,4 +1,4 @@
-<p align='center'># Hi there 👋 , I'm Awan!</p>
+<h1 align='center'>Hi there 👋 , I'm Awan!</h1>
 I love learn new thing in programming, robotic, and network.  
 <br>- 🔭 I’m currently learn in University Mulawarman
 <br>- 👾 Play games to pass the time

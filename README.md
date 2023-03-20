@@ -1,6 +1,5 @@
 # Hi there 👋 , I'm Awan!
 I love learn new thing in programming, robotic, and network.  
-
 <br>- 🔭 I’m currently learn in University Mulawarman
 <br>- 👾 Play games to pass the time
 <br>- 👻 learn while playing

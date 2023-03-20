@@ -5,10 +5,13 @@ I love learn new thing in programming, robotic, and network.
 <br>- 👻 learn while playing
 
 ### Stats:    
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact" height=180 />
+<p align='center'>
+   <a href="https://github.com/awansetyawan/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact" alt="Alif Maulana Setyawan's github stats"/>
+   </a>
+   <a href="https://github.com/awansetyawan/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=issues&count_private=true&show_icons=true" alt="Alif Maulana Setyawan's github stats" />
+   </a>
 </p>
 
 ### Tools:

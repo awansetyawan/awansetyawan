@@ -6,9 +6,9 @@ I love learn new thing in programming, robotic, and network.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-<br>- 🔭 I’m currently learn in University Mulawarman </br>
-- 👾 Play games to pass the time.</br>
-- 👻 learn while playing.</br>
+<br>- 🔭 I’m currently learn in University Mulawarman
+<br>- 👾 Play games to pass the time
+<br>- 👻 learn while playing
     
 ### Stats:    
 <p>

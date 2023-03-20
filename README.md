@@ -11,6 +11,7 @@ I love learn new thing in programming, robotic, and network.
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently learn in University Mulawarman </br>
     - 👾 Play games to pass the time.</br>
+    - 👻 learn while playing.
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -20,5 +21,5 @@ I love learn new thing in programming, robotic, and network.
 
 ### Let's connect!
 <p>
-    <a href="https://www.instagram.com/awanxx_/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Finstagram-logo-modern-paint-splash-social-media-png%2F&psig=AOvVaw2rUZKcvAVv7sCirlkNSup9&ust=1679384949892000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDC1M2C6v0CFQAAAAAdAAAAABAE" /></a>
+    <a href="https://www.instagram.com/awanxx_/"><img src="https://seeklogo.com/images/I/instagram-circle-logo-E285122AB7-seeklogo.com.png" /></a>
 </p>

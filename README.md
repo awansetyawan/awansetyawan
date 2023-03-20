@@ -9,14 +9,8 @@ I love learn new thing in programming, robotic, and network.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - 🔭 I’m currently learn in University Mulawarman </br>
+    - 👾 Play games to pass the time.</br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -26,10 +20,5 @@ I love learn new thing in programming, robotic, and network.
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://www.instagram.com/awanxx_/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Finstagram-logo-modern-paint-splash-social-media-png%2F&psig=AOvVaw2rUZKcvAVv7sCirlkNSup9&ust=1679384949892000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDC1M2C6v0CFQAAAAAdAAAAABAE" /></a>
 </p>
-

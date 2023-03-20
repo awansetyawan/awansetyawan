@@ -7,10 +7,10 @@ I love learn new thing in programming, robotic, and network.
 ### Stats:    
 <p align='center'>
    <a href="https://github.com/awansetyawan/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=issues&count_private=true&show_icons=true" alt="Alif Maulana Setyawan's github stats" height=165/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=awansetyawan&hide=issues&count_private=true&show_icons=true&bg_color=171c28" alt="Alif Maulana Setyawan's github stats" height=165/>
    </a>
    <a href="https://github.com/awansetyawan/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact" alt="Alif Maulana Setyawan's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact&bg_color=171c28" alt="Alif Maulana Setyawan's github stats"/>
    </a>
 </p>
 

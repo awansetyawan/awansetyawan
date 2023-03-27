@@ -17,7 +17,10 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <br>
     <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
+    <br>
+    <img src="https://img.shields.io/badge/Visual%20Basic-2022-purple?logo=visual%20studio&logoColor=purple" />
 </p>
 
 ### Let's connect!

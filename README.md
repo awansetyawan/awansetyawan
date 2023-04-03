@@ -10,7 +10,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=awansetyawan&show_icons=true&theme=tokyonight" height=165/>
    </a>
    <a href="https://github.com/awansetyawan/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact&theme=cobalt"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact&theme=tokyonight"/>
    </a>
 </p>
 

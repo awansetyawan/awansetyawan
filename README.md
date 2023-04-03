@@ -12,6 +12,7 @@
    <a href="https://github.com/awansetyawan/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awansetyawan&layout=compact&bg_color=171c28" alt="Alif Maulana Setyawan's github stats"/>
    </a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### Tools:

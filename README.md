@@ -16,7 +16,7 @@
    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awansetyawan&&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/awansetyawan/">
-   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//top-langs/api?username=awansetyawan&&show_icons=true&theme=tokyonight"/>
+   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=awansetyawan&&show_icons=true&theme=tokyonight"/>
    </a>
 </p>
 

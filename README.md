@@ -7,9 +7,6 @@
 ### Stats:    
 <p align='center'>
    <a href="https://github.com/awansetyawan/">
-   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awansetyawan&&show_icons=true&theme=tokyonight" height=200/>
-   </a>
-   <a href="https://github.com/awansetyawan/">
    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=awansetyawan&&show_icons=true&theme=tokyonight"   height=200/>
    </a>
 </p>

@@ -1,8 +1,5 @@
 <h1 align='center'>Hi there 👋 , I'm Awan!</h1>
 <p align='center'>I love learn new thing in programming, robotic, and network.</p>
-<br>- 🔭 I’m currently learn in University Mulawarman
-<br>- 👾 Play games to pass the time
-<br>- 👻 Learn while playing
 
 ### Stats:    
 <p align='center'>
